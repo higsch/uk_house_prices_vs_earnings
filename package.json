@@ -1,0 +1,17 @@
+{
+  "name": "house_prices_vs_earnings_uk",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2.0.3",
+    "d3": "^7.8.4",
+    "svelte": "^3.57.0",
+    "vite": "^4.3.0"
+  }
+}
