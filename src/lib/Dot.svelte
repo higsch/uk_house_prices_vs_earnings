@@ -17,10 +17,13 @@
 </g>
 
 <style>
+    g {
+        transition: all, 400ms;
+    }
+
     circle {
         fill: #00b4d8;
         stroke: none;
         opacity: 0.7;
-        transition: all, 400ms;
     }
 </style>
